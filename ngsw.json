@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1683896150682,
+  "timestamp": 1683905935780,
   "index": "https://dobromir-antonov.github.io/angular-pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://dobromir-antonov.github.io/angular-pwa/favicon.ico",
         "https://dobromir-antonov.github.io/angular-pwa/index.html",
-        "https://dobromir-antonov.github.io/angular-pwa/main.a01319d76b67c6c6.js",
+        "https://dobromir-antonov.github.io/angular-pwa/main.82bf345688bb5785.js",
         "https://dobromir-antonov.github.io/angular-pwa/manifest.webmanifest",
         "https://dobromir-antonov.github.io/angular-pwa/polyfills.c83b7488a22b4928.js",
         "https://dobromir-antonov.github.io/angular-pwa/runtime.080825e25f44479b.js",
@@ -56,8 +56,8 @@
     "https://dobromir-antonov.github.io/angular-pwa/bootstrap-icons.35e09da2aecdd969.woff2": "17dad0776899ad1beadabd061c34e2a22b2cde74",
     "https://dobromir-antonov.github.io/angular-pwa/bootstrap-icons.cb4c7c05f3292543.woff": "75919c717ce5c5bc716bc51705c0cd0b60f4bffc",
     "https://dobromir-antonov.github.io/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://dobromir-antonov.github.io/angular-pwa/index.html": "739b6fc30feb8a8b79d4e9259a19b506bb7e0a10",
-    "https://dobromir-antonov.github.io/angular-pwa/main.a01319d76b67c6c6.js": "5b78f41895ab5c4f626e55eef7286ee5dfeb766e",
+    "https://dobromir-antonov.github.io/angular-pwa/index.html": "040a04f7359e371d6fb565c618745b1ef2be9806",
+    "https://dobromir-antonov.github.io/angular-pwa/main.82bf345688bb5785.js": "74f281401995107a56bf5e5e43998f17c03b01e0",
     "https://dobromir-antonov.github.io/angular-pwa/manifest.webmanifest": "6440373ee0e33884fed7870a057206694913cbbe",
     "https://dobromir-antonov.github.io/angular-pwa/polyfills.c83b7488a22b4928.js": "3f7fb935f278c85db7cbf3ad2e9ceec51d225844",
     "https://dobromir-antonov.github.io/angular-pwa/runtime.080825e25f44479b.js": "a654f83c4394d600fdf21c3eb5fe9400bac347c2",
